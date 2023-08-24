@@ -1,0 +1,6 @@
+{'C': 0.1, 'degree': 2, 'epsilon': 1, 'gamma': 'scale', 'kernel': 'linear'}
+{'bootstrap': True, 'max_features': 5, 'n_estimators': 200, 'oob_score': True}
+{'alpha': 1, 'l1_ratio': 0.01}
+{'learning_rate': 0.1, 'n_estimators': 25}
+{'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 50}
+{'feature_fraction': 0.6, 'learning_rate': 0.1, 'max_depth': 4, 'min_data_in_leaf': 25, 'min_gain_to_split': 0, 'num_leaves': 10, 'verbose': -1}
