@@ -1,0 +1,703 @@
+Season,Tm,Playoff Wins,Wins Needed
+2024,Boston Celtics,16,16
+2024,Dallas Mavericks,13,16
+2024,Minnesota Timberwolves,9,16
+2024,Indiana Pacers,8,16
+2024,New York Knicks,7,16
+2024,Denver Nuggets,7,16
+2024,Oklahoma City Thunder,6,16
+2024,Cleveland Cavaliers,5,16
+2024,Orlando Magic,3,16
+2024,Milwaukee Bucks,2,16
+2024,Los Angeles Clippers,2,16
+2024,Philadelphia 76ers,2,16
+2024,Miami Heat,1,16
+2024,Los Angeles Lakers,1,16
+2024,New Orleans Pelicans,0,16
+2024,Phoenix Suns,0,16
+2023,Denver Nuggets,16,16
+2023,Miami Heat,13,16
+2023,Boston Celtics,11,16
+2023,Los Angeles Lakers,8,16
+2023,Philadelphia 76ers,7,16
+2023,New York Knicks,6,16
+2023,Golden State Warriors,6,16
+2023,Phoenix Suns,6,16
+2023,Sacramento Kings,3,16
+2023,Memphis Grizzlies,2,16
+2023,Atlanta Hawks,2,16
+2023,Cleveland Cavaliers,1,16
+2023,Minnesota Timberwolves,1,16
+2023,Los Angeles Clippers,1,16
+2023,Milwaukee Bucks,1,16
+2023,Brooklyn Nets,0,16
+2022,Golden State Warriors,16,16
+2022,Boston Celtics,14,16
+2022,Miami Heat,11,16
+2022,Dallas Mavericks,9,16
+2022,Milwaukee Bucks,7,16
+2022,Phoenix Suns,7,16
+2022,Memphis Grizzlies,6,16
+2022,Philadelphia 76ers,6,16
+2022,Toronto Raptors,2,16
+2022,Utah Jazz,2,16
+2022,Minnesota Timberwolves,2,16
+2022,New Orleans Pelicans,2,16
+2022,Atlanta Hawks,1,16
+2022,Chicago Bulls,1,16
+2022,Denver Nuggets,1,16
+2022,Brooklyn Nets,0,16
+2021,Milwaukee Bucks,16,16
+2021,Phoenix Suns,14,16
+2021,Los Angeles Clippers,10,16
+2021,Atlanta Hawks,10,16
+2021,Philadelphia 76ers,7,16
+2021,Brooklyn Nets,7,16
+2021,Utah Jazz,6,16
+2021,Denver Nuggets,4,16
+2021,Dallas Mavericks,3,16
+2021,Portland Trail Blazers,2,16
+2021,Los Angeles Lakers,2,16
+2021,Washington Wizards,1,16
+2021,New York Knicks,1,16
+2021,Memphis Grizzlies,1,16
+2021,Boston Celtics,1,16
+2021,Miami Heat,0,16
+2020,Los Angeles Lakers,16,16
+2020,Miami Heat,14,16
+2020,Boston Celtics,10,16
+2020,Denver Nuggets,9,16
+2020,Los Angeles Clippers,7,16
+2020,Toronto Raptors,7,16
+2020,Houston Rockets,5,16
+2020,Milwaukee Bucks,5,16
+2020,Utah Jazz,3,16
+2020,Oklahoma City Thunder,3,16
+2020,Dallas Mavericks,2,16
+2020,Orlando Magic,1,16
+2020,Portland Trail Blazers,1,16
+2020,Brooklyn Nets,0,16
+2020,Philadelphia 76ers,0,16
+2020,Indiana Pacers,0,16
+2019,Toronto Raptors,16,16
+2019,Golden State Warriors,14,16
+2019,Milwaukee Bucks,10,16
+2019,Portland Trail Blazers,8,16
+2019,Denver Nuggets,7,16
+2019,Philadelphia 76ers,7,16
+2019,Houston Rockets,6,16
+2019,Boston Celtics,5,16
+2019,San Antonio Spurs,3,16
+2019,Los Angeles Clippers,2,16
+2019,Oklahoma City Thunder,1,16
+2019,Utah Jazz,1,16
+2019,Brooklyn Nets,1,16
+2019,Orlando Magic,1,16
+2019,Detroit Pistons,0,16
+2019,Indiana Pacers,0,16
+2018,Golden State Warriors,16,16
+2018,Cleveland Cavaliers,12,16
+2018,Houston Rockets,11,16
+2018,Boston Celtics,11,16
+2018,Philadelphia 76ers,5,16
+2018,Utah Jazz,5,16
+2018,New Orleans Pelicans,5,16
+2018,Toronto Raptors,4,16
+2018,Milwaukee Bucks,3,16
+2018,Indiana Pacers,3,16
+2018,Oklahoma City Thunder,2,16
+2018,Washington Wizards,2,16
+2018,Miami Heat,1,16
+2018,Minnesota Timberwolves,1,16
+2018,San Antonio Spurs,1,16
+2018,Portland Trail Blazers,0,16
+2017,Golden State Warriors,16,16
+2017,Cleveland Cavaliers,13,16
+2017,Boston Celtics,9,16
+2017,San Antonio Spurs,8,16
+2017,Washington Wizards,7,16
+2017,Houston Rockets,6,16
+2017,Toronto Raptors,4,16
+2017,Utah Jazz,4,16
+2017,Los Angeles Clippers,3,16
+2017,Memphis Grizzlies,2,16
+2017,Milwaukee Bucks,2,16
+2017,Atlanta Hawks,2,16
+2017,Chicago Bulls,2,16
+2017,Oklahoma City Thunder,1,16
+2017,Indiana Pacers,0,16
+2017,Portland Trail Blazers,0,16
+2016,Cleveland Cavaliers,16,16
+2016,Golden State Warriors,15,16
+2016,Oklahoma City Thunder,11,16
+2016,Toronto Raptors,10,16
+2016,Miami Heat,7,16
+2016,San Antonio Spurs,6,16
+2016,Portland Trail Blazers,5,16
+2016,Atlanta Hawks,4,16
+2016,Indiana Pacers,3,16
+2016,Charlotte Hornets,3,16
+2016,Boston Celtics,2,16
+2016,Los Angeles Clippers,2,16
+2016,Houston Rockets,1,16
+2016,Dallas Mavericks,1,16
+2016,Memphis Grizzlies,0,16
+2016,Detroit Pistons,0,16
+2015,Golden State Warriors,16,16
+2015,Cleveland Cavaliers,14,16
+2015,Houston Rockets,9,16
+2015,Atlanta Hawks,8,16
+2015,Los Angeles Clippers,7,16
+2015,Memphis Grizzlies,6,16
+2015,Chicago Bulls,6,16
+2015,Washington Wizards,6,16
+2015,San Antonio Spurs,3,16
+2015,Milwaukee Bucks,2,16
+2015,Brooklyn Nets,2,16
+2015,Dallas Mavericks,1,16
+2015,Portland Trail Blazers,1,16
+2015,Toronto Raptors,0,16
+2015,Boston Celtics,0,16
+2015,New Orleans Pelicans,0,16
+2014,San Antonio Spurs,16,16
+2014,Miami Heat,13,16
+2014,Oklahoma City Thunder,10,16
+2014,Indiana Pacers,10,16
+2014,Washington Wizards,6,16
+2014,Los Angeles Clippers,6,16
+2014,Brooklyn Nets,5,16
+2014,Portland Trail Blazers,5,16
+2014,Memphis Grizzlies,3,16
+2014,Golden State Warriors,3,16
+2014,Dallas Mavericks,3,16
+2014,Toronto Raptors,3,16
+2014,Atlanta Hawks,3,16
+2014,Houston Rockets,2,16
+2014,Chicago Bulls,1,16
+2014,Charlotte Hornets,0,16
+2013,Miami Heat,16,16
+2013,San Antonio Spurs,15,16
+2013,Indiana Pacers,11,16
+2013,Memphis Grizzlies,8,16
+2013,New York Knicks,6,16
+2013,Golden State Warriors,6,16
+2013,Oklahoma City Thunder,5,16
+2013,Chicago Bulls,5,16
+2013,Brooklyn Nets,3,16
+2013,Denver Nuggets,2,16
+2013,Atlanta Hawks,2,16
+2013,Boston Celtics,2,16
+2013,Houston Rockets,2,16
+2013,Los Angeles Clippers,2,16
+2013,Los Angeles Lakers,0,16
+2013,Milwaukee Bucks,0,16
+2012,Miami Heat,16,16
+2012,Oklahoma City Thunder,13,16
+2012,Boston Celtics,11,16
+2012,San Antonio Spurs,10,16
+2012,Philadelphia 76ers,7,16
+2012,Indiana Pacers,6,16
+2012,Los Angeles Lakers,5,16
+2012,Los Angeles Clippers,4,16
+2012,Memphis Grizzlies,3,16
+2012,Denver Nuggets,3,16
+2012,Atlanta Hawks,2,16
+2012,Chicago Bulls,2,16
+2012,Orlando Magic,1,16
+2012,New York Knicks,1,16
+2012,Utah Jazz,0,16
+2012,Dallas Mavericks,0,16
+2011,Dallas Mavericks,16,16
+2011,Miami Heat,14,16
+2011,Oklahoma City Thunder,9,16
+2011,Chicago Bulls,9,16
+2011,Memphis Grizzlies,7,16
+2011,Atlanta Hawks,6,16
+2011,Boston Celtics,5,16
+2011,Los Angeles Lakers,4,16
+2011,Orlando Magic,2,16
+2011,San Antonio Spurs,2,16
+2011,Portland Trail Blazers,2,16
+2011,New Orleans Hornets,2,16
+2011,Indiana Pacers,1,16
+2011,Philadelphia 76ers,1,16
+2011,Denver Nuggets,1,16
+2011,New York Knicks,0,16
+2010,Los Angeles Lakers,16,16
+2010,Boston Celtics,15,16
+2010,Phoenix Suns,10,16
+2010,Orlando Magic,10,16
+2010,Cleveland Cavaliers,6,16
+2010,Atlanta Hawks,4,16
+2010,Utah Jazz,4,16
+2010,San Antonio Spurs,4,16
+2010,Milwaukee Bucks,3,16
+2010,Oklahoma City Thunder,2,16
+2010,Denver Nuggets,2,16
+2010,Portland Trail Blazers,2,16
+2010,Dallas Mavericks,2,16
+2010,Chicago Bulls,1,16
+2010,Miami Heat,1,16
+2010,Charlotte Bobcats,0,16
+2009,Los Angeles Lakers,16,16
+2009,Orlando Magic,13,16
+2009,Denver Nuggets,10,16
+2009,Cleveland Cavaliers,10,16
+2009,Houston Rockets,7,16
+2009,Boston Celtics,7,16
+2009,Dallas Mavericks,5,16
+2009,Atlanta Hawks,4,16
+2009,Miami Heat,3,16
+2009,Chicago Bulls,3,16
+2009,Philadelphia 76ers,2,16
+2009,Portland Trail Blazers,2,16
+2009,Utah Jazz,1,16
+2009,San Antonio Spurs,1,16
+2009,New Orleans Hornets,1,16
+2009,Detroit Pistons,0,16
+2008,Boston Celtics,16,16
+2008,Los Angeles Lakers,14,16
+2008,Detroit Pistons,10,16
+2008,San Antonio Spurs,9,16
+2008,New Orleans Hornets,7,16
+2008,Cleveland Cavaliers,7,16
+2008,Utah Jazz,6,16
+2008,Orlando Magic,5,16
+2008,Atlanta Hawks,3,16
+2008,Washington Wizards,2,16
+2008,Philadelphia 76ers,2,16
+2008,Houston Rockets,2,16
+2008,Toronto Raptors,1,16
+2008,Phoenix Suns,1,16
+2008,Dallas Mavericks,1,16
+2008,Denver Nuggets,0,16
+2007,San Antonio Spurs,16,16
+2007,Cleveland Cavaliers,12,16
+2007,Detroit Pistons,10,16
+2007,Utah Jazz,9,16
+2007,Chicago Bulls,6,16
+2007,New Jersey Nets,6,16
+2007,Phoenix Suns,6,16
+2007,Golden State Warriors,5,16
+2007,Houston Rockets,3,16
+2007,Toronto Raptors,2,16
+2007,Dallas Mavericks,2,16
+2007,Denver Nuggets,1,16
+2007,Los Angeles Lakers,1,16
+2007,Orlando Magic,0,16
+2007,Miami Heat,0,16
+2007,Washington Wizards,0,16
+2006,Miami Heat,16,16
+2006,Dallas Mavericks,14,16
+2006,Detroit Pistons,10,16
+2006,Phoenix Suns,10,16
+2006,Los Angeles Clippers,7,16
+2006,San Antonio Spurs,7,16
+2006,Cleveland Cavaliers,7,16
+2006,New Jersey Nets,5,16
+2006,Los Angeles Lakers,3,16
+2006,Washington Wizards,2,16
+2006,Indiana Pacers,2,16
+2006,Chicago Bulls,2,16
+2006,Sacramento Kings,2,16
+2006,Milwaukee Bucks,1,16
+2006,Denver Nuggets,1,16
+2006,Memphis Grizzlies,0,16
+2005,San Antonio Spurs,16,16
+2005,Detroit Pistons,15,16
+2005,Miami Heat,11,16
+2005,Phoenix Suns,9,16
+2005,Indiana Pacers,6,16
+2005,Dallas Mavericks,6,16
+2005,Seattle SuperSonics,6,16
+2005,Washington Wizards,4,16
+2005,Boston Celtics,3,16
+2005,Houston Rockets,3,16
+2005,Chicago Bulls,2,16
+2005,Philadelphia 76ers,1,16
+2005,Sacramento Kings,1,16
+2005,Denver Nuggets,1,16
+2005,New Jersey Nets,0,16
+2005,Memphis Grizzlies,0,16
+2004,Detroit Pistons,16,16
+2004,Los Angeles Lakers,13,16
+2004,Indiana Pacers,10,16
+2004,Minnesota Timberwolves,10,16
+2004,New Jersey Nets,7,16
+2004,Sacramento Kings,7,16
+2004,San Antonio Spurs,6,16
+2004,Miami Heat,6,16
+2004,New Orleans Hornets,3,16
+2004,Denver Nuggets,1,16
+2004,Dallas Mavericks,1,16
+2004,Houston Rockets,1,16
+2004,Milwaukee Bucks,1,16
+2004,Boston Celtics,0,16
+2004,New York Knicks,0,16
+2004,Memphis Grizzlies,0,16
+2003,San Antonio Spurs,16,16
+2003,New Jersey Nets,14,16
+2003,Dallas Mavericks,10,16
+2003,Detroit Pistons,8,16
+2003,Sacramento Kings,7,16
+2003,Los Angeles Lakers,6,16
+2003,Philadelphia 76ers,6,16
+2003,Boston Celtics,4,16
+2003,Orlando Magic,3,16
+2003,Portland Trail Blazers,3,16
+2003,Phoenix Suns,2,16
+2003,Minnesota Timberwolves,2,16
+2003,New Orleans Hornets,2,16
+2003,Indiana Pacers,2,16
+2003,Milwaukee Bucks,2,16
+2003,Utah Jazz,1,16
+2002,Los Angeles Lakers,15,15
+2002,New Jersey Nets,11,15
+2002,Sacramento Kings,10,15
+2002,Boston Celtics,9,15
+2002,San Antonio Spurs,4,15
+2002,Dallas Mavericks,4,15
+2002,Detroit Pistons,4,15
+2002,Charlotte Hornets,4,15
+2002,Seattle SuperSonics,2,15
+2002,Toronto Raptors,2,15
+2002,Indiana Pacers,2,15
+2002,Philadelphia 76ers,2,15
+2002,Orlando Magic,1,15
+2002,Utah Jazz,1,15
+2002,Minnesota Timberwolves,0,15
+2002,Portland Trail Blazers,0,15
+2001,Los Angeles Lakers,15,15
+2001,Philadelphia 76ers,12,15
+2001,Milwaukee Bucks,10,15
+2001,San Antonio Spurs,7,15
+2001,Toronto Raptors,6,15
+2001,Charlotte ,6,15
+2001,Dallas Mavericks,4,15
+2001,Sacramento Kings,3,15
+2001,New York Knicks,2,15
+2001,Utah Jazz,2,15
+2001,Indiana Pacers,1,15
+2001,Orlando Magic,1,15
+2001,Minnesota Timberwolves,1,15
+2001,Phoenix Suns,1,15
+2001,Portland Trail Blazers,0,15
+2001,Miami Heat,0,15
+2000,Los Angeles Lakers,15,15
+2000,Indiana Pacers,13,15
+2000,Portland Trail Blazers,10,15
+2000,New York Knicks,9,15
+2000,Miami Heat,6,15
+2000,Philadelphia 76ers,5,15
+2000,Utah Jazz,4,15
+2000,Phoenix Suns,4,15
+2000,Milwaukee Bucks,2,15
+2000,Sacramento Kings,2,15
+2000,Seattle SuperSonics,2,15
+2000,Minnesota Timberwolves,1,15
+2000,San Antonio Spurs,1,15
+2000,Charlotte Hornets,1,15
+2000,Toronto Raptors,0,15
+2000,Detroit Pistons,0,15
+1999,San Antonio Spurs,15,15
+1999,New York Knicks,12,15
+1999,Indiana Pacers,9,15
+1999,Portland Trail Blazers,7,15
+1999,Utah Jazz,5,15
+1999,Atlanta Hawks,3,15
+1999,Philadelphia 76ers,3,15
+1999,Los Angeles Lakers,3,15
+1999,Miami Heat,2,15
+1999,Detroit Pistons,2,15
+1999,Sacramento Kings,2,15
+1999,Orlando Magic,1,15
+1999,Minnesota Timberwolves,1,15
+1999,Houston Rockets,1,15
+1999,Phoenix Suns,0,15
+1999,Milwaukee Bucks,0,15
+1998,Chicago Bulls,15,15
+1998,Utah Jazz,13,15
+1998,Indiana Pacers,10,15
+1998,Los Angeles Lakers,7,15
+1998,New York Knicks,4,15
+1998,Charlotte Hornets,4,15
+1998,Seattle SuperSonics,4,15
+1998,San Antonio Spurs,4,15
+1998,Minnesota Timberwolves,2,15
+1998,Houston Rockets,2,15
+1998,Miami Heat,2,15
+1998,Portland Trail Blazers,1,15
+1998,Phoenix Suns,1,15
+1998,Cleveland Cavaliers,1,15
+1998,Atlanta Hawks,1,15
+1998,New Jersey Nets,0,15
+1997,Chicago Bulls,15,15
+1997,Utah Jazz,13,15
+1997,Houston Rockets,9,15
+1997,Miami Heat,8,15
+1997,New York Knicks,6,15
+1997,Seattle SuperSonics,6,15
+1997,Los Angeles Lakers,4,15
+1997,Atlanta Hawks,4,15
+1997,Phoenix Suns,2,15
+1997,Orlando Magic,2,15
+1997,Detroit Pistons,2,15
+1997,Portland Trail Blazers,1,15
+1997,Washington Bullets,0,15
+1997,Charlotte Hornets,0,15
+1997,Los Angeles Clippers,0,15
+1997,Minnesota Timberwolves,0,15
+1996,Chicago Bulls,15,15
+1996,Seattle SuperSonics,13,15
+1996,Utah Jazz,10,15
+1996,Orlando Magic,7,15
+1996,San Antonio Spurs,5,15
+1996,Atlanta Hawks,4,15
+1996,New York Knicks,4,15
+1996,Houston Rockets,3,15
+1996,Portland Trail Blazers,2,15
+1996,Indiana Pacers,2,15
+1996,Los Angeles Lakers,1,15
+1996,Phoenix Suns,1,15
+1996,Sacramento Kings,1,15
+1996,Miami Heat,0,15
+1996,Cleveland Cavaliers,0,15
+1996,Detroit Pistons,0,15
+1995,Houston Rockets,15,15
+1995,Orlando Magic,11,15
+1995,Indiana Pacers,10,15
+1995,San Antonio Spurs,9,15
+1995,Phoenix Suns,6,15
+1995,New York Knicks,6,15
+1995,Chicago Bulls,5,15
+1995,Los Angeles Lakers,5,15
+1995,Utah Jazz,2,15
+1995,Seattle SuperSonics,1,15
+1995,Boston Celtics,1,15
+1995,Charlotte Hornets,1,15
+1995,Cleveland Cavaliers,1,15
+1995,Denver Nuggets,0,15
+1995,Portland Trail Blazers,0,15
+1995,Atlanta Hawks,0,15
+1994,Houston Rockets,15,15
+1994,New York Knicks,14,15
+1994,Indiana Pacers,10,15
+1994,Utah Jazz,8,15
+1994,Chicago Bulls,6,15
+1994,Denver Nuggets,6,15
+1994,Phoenix Suns,6,15
+1994,Atlanta Hawks,5,15
+1994,Miami Heat,2,15
+1994,Seattle SuperSonics,2,15
+1994,New Jersey Nets,1,15
+1994,Portland Trail Blazers,1,15
+1994,San Antonio Spurs,1,15
+1994,Golden State Warriors,0,15
+1994,Cleveland Cavaliers,0,15
+1994,Orlando Magic,0,15
+1993,Chicago Bulls,15,15
+1993,Phoenix Suns,13,15
+1993,Seattle SuperSonics,10,15
+1993,New York Knicks,9,15
+1993,Houston Rockets,6,15
+1993,San Antonio Spurs,5,15
+1993,Charlotte Hornets,4,15
+1993,Cleveland Cavaliers,3,15
+1993,Los Angeles Lakers,2,15
+1993,Los Angeles Clippers,2,15
+1993,Utah Jazz,2,15
+1993,New Jersey Nets,2,15
+1993,Indiana Pacers,1,15
+1993,Boston Celtics,1,15
+1993,Portland Trail Blazers,1,15
+1993,Atlanta Hawks,0,15
+1992,Chicago Bulls,15,15
+1992,Portland Trail Blazers,13,15
+1992,Cleveland Cavaliers,9,15
+1992,Utah Jazz,9,15
+1992,Boston Celtics,6,15
+1992,New York Knicks,6,15
+1992,Phoenix Suns,4,15
+1992,Seattle SuperSonics,4,15
+1992,Detroit Pistons,2,15
+1992,Los Angeles Clippers,2,15
+1992,New Jersey Nets,1,15
+1992,Golden State Warriors,1,15
+1992,Los Angeles Lakers,1,15
+1992,Miami Heat,0,15
+1992,Indiana Pacers,0,15
+1992,San Antonio Spurs,0,15
+1991,Chicago Bulls,15,15
+1991,Los Angeles Lakers,12,15
+1991,Portland Trail Blazers,9,15
+1991,Detroit Pistons,7,15
+1991,Boston Celtics,5,15
+1991,Philadelphia 76ers,4,15
+1991,Utah Jazz,4,15
+1991,Golden State Warriors,4,15
+1991,Atlanta Hawks,2,15
+1991,Indiana Pacers,2,15
+1991,Seattle SuperSonics,2,15
+1991,Phoenix Suns,1,15
+1991,San Antonio Spurs,1,15
+1991,New York Knicks,0,15
+1991,Milwaukee Bucks,0,15
+1991,Houston Rockets,0,15
+1990,Detroit Pistons,15,15
+1990,Portland Trail Blazers,12,15
+1990,Chicago Bulls,10,15
+1990,Phoenix Suns,9,15
+1990,San Antonio Spurs,6,15
+1990,New York Knicks,4,15
+1990,Philadelphia 76ers,4,15
+1990,Los Angeles Lakers,4,15
+1990,Boston Celtics,2,15
+1990,Cleveland Cavaliers,2,15
+1990,Utah Jazz,2,15
+1990,Milwaukee Bucks,1,15
+1990,Houston Rockets,1,15
+1990,Indiana Pacers,0,15
+1990,Dallas Mavericks,0,15
+1990,Denver Nuggets,0,15
+1989,Detroit Pistons,15,15
+1989,Los Angeles Lakers,11,15
+1989,Chicago Bulls,9,15
+1989,Phoenix Suns,7,15
+1989,New York Knicks,5,15
+1989,Golden State Warriors,4,15
+1989,Milwaukee Bucks,3,15
+1989,Seattle SuperSonics,3,15
+1989,Atlanta Hawks,2,15
+1989,Cleveland Cavaliers,2,15
+1989,Houston Rockets,1,15
+1989,Utah Jazz,0,15
+1989,Boston Celtics,0,15
+1989,Philadelphia 76ers,0,15
+1989,Portland Trail Blazers,0,15
+1989,Denver Nuggets,0,15
+1988,Los Angeles Lakers,15,15
+1988,Detroit Pistons,14,15
+1988,Dallas Mavericks,10,15
+1988,Boston Celtics,9,15
+1988,Atlanta Hawks,6,15
+1988,Utah Jazz,6,15
+1988,Denver Nuggets,5,15
+1988,Chicago Bulls,4,15
+1988,Milwaukee Bucks,2,15
+1988,Cleveland Cavaliers,2,15
+1988,Washington Bullets,2,15
+1988,Seattle SuperSonics,2,15
+1988,Houston Rockets,1,15
+1988,Portland Trail Blazers,1,15
+1988,New York Knicks,1,15
+1988,San Antonio Spurs,0,15
+1987,Los Angeles Lakers,15,15
+1987,Boston Celtics,13,15
+1987,Detroit Pistons,10,15
+1987,Seattle SuperSonics,7,15
+1987,Milwaukee Bucks,6,15
+1987,Houston Rockets,5,15
+1987,Golden State Warriors,4,15
+1987,Atlanta Hawks,4,15
+1987,Philadelphia 76ers,2,15
+1987,Utah Jazz,2,15
+1987,Indiana Pacers,1,15
+1987,Portland Trail Blazers,1,15
+1987,Dallas Mavericks,1,15
+1987,Chicago Bulls,0,15
+1987,Washington Bullets,0,15
+1987,Denver Nuggets,0,15
+1986,Boston Celtics,15,15
+1986,Houston Rockets,13,15
+1986,Los Angeles Lakers,8,15
+1986,Milwaukee Bucks,7,15
+1986,Philadelphia 76ers,6,15
+1986,Denver Nuggets,5,15
+1986,Dallas Mavericks,5,15
+1986,Atlanta Hawks,4,15
+1986,Washington Bullets,2,15
+1986,Detroit Pistons,1,15
+1986,Utah Jazz,1,15
+1986,Portland Trail Blazers,1,15
+1986,Chicago Bulls,0,15
+1986,New Jersey Nets,0,15
+1986,San Antonio Spurs,0,15
+1986,Sacramento Kings,0,15
+1985,Los Angeles Lakers,15,15
+1985,Boston Celtics,13,15
+1985,Denver Nuggets,8,15
+1985,Philadelphia 76ers,8,15
+1985,Detroit Pistons,5,15
+1985,Portland Trail Blazers,4,15
+1985,Utah Jazz,4,15
+1985,Milwaukee Bucks,3,15
+1985,Houston Rockets,2,15
+1985,San Antonio Spurs,2,15
+1985,Cleveland Cavaliers,1,15
+1985,Washington Bullets,1,15
+1985,Chicago Bulls,1,15
+1985,Dallas Mavericks,1,15
+1985,New Jersey Nets,0,15
+1985,Phoenix Suns,0,15
+1984,Boston Celtics,15,15
+1984,Los Angeles Lakers,14,15
+1984,Phoenix Suns,9,15
+1984,Milwaukee Bucks,8,15
+1984,New York Knicks,5,15
+1984,New Jersey Nets,5,15
+1984,Utah Jazz,5,15
+1984,Dallas Mavericks,4,15
+1984,Seattle SuperSonics,2,15
+1984,Portland Trail Blazers,2,15
+1984,Denver Nuggets,2,15
+1984,Detroit Pistons,2,15
+1984,Philadelphia 76ers,2,15
+1984,Atlanta Hawks,2,15
+1984,Washington Bullets,1,15
+1984,Kansas City Kings,0,15
+1983,Philadelphia 76ers,15,
+1982,Los Angeles Lakers,15,
+1981,Boston Celtics,15,
+1980,Los Angeles Lakers,15,
+1979,Seattle SuperSonics,15,
+1978,Washington Bullets,15,
+1977,Portland Trail Blazers,15,
+1976,Boston Celtics,15,
+1976,New York Nets,15,
+1975,Golden State Warriors,15,
+1975,Kentucky Colonels,15,
+1974,Boston Celtics,15,
+1974,New York Nets,15,
+1973,New York Knicks,15,
+1973,Indiana Pacers,15,
+1972,Los Angeles Lakers,15,
+1972,Indiana Pacers,15,
+1971,Milwaukee Bucks,15,
+1971,Utah Stars,15,
+1970,New York Knicks,15,
+1970,Indiana Pacers,15,
+1969,Boston Celtics,15,
+1969,Oakland Oaks,15,
+1968,Boston Celtics,15,
+1968,Pittsburgh Pipers,15,
+1967,Philadelphia 76ers,15,
+1966,Boston Celtics,15,
+1965,Boston Celtics,15,
+1964,Boston Celtics,15,
+1963,Boston Celtics,15,
+1962,Boston Celtics,15,
+1961,Boston Celtics,15,
+1960,Boston Celtics,15,
+1959,Boston Celtics,15,
+1958,St. Louis Hawks,15,
+1957,Boston Celtics,15,
+1956,Philadelphia Warriors,15,
+1955,Syracuse Nationals,15,
+1954,Minneapolis Lakers,15,
+1953,Minneapolis Lakers,15,
+1952,Minneapolis Lakers,15,
+1951,Rochester Royals,15,
+1950,Minneapolis Lakers,15,
+1949,Minneapolis Lakers,15,
+1948,Baltimore Bullets,15,
+1947,Philadelphia Warriors,15,
